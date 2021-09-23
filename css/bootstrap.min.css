@@ -614,7 +614,7 @@ pre code {
 
 @media (min-width:1200px) {
     .container {
-        max-width: 1140px
+        max-width: 1500px
     }
 }
 
@@ -6879,6 +6879,11 @@ button.bg-dark:hover {
     -webkit-box-pack: center!important;
     -ms-flex-pack: center!important;
     justify-content: center!important
+}
+.justify-content-left {
+    -webkit-box-pack: left!important;
+    -ms-flex-pack: left!important;
+    justify-content: left!important
 }
 
 .justify-content-between {

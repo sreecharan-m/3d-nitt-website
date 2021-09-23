@@ -2380,6 +2380,9 @@ h3 {
 .bradcam_bg_5 {
   background-image: url(../img/banner/b5.png);
 }
+.bradcam_bg_6 {
+  background-image: url(../img/banner/b6.png);
+}
 /* line 13, ../../Arafath/CL/january 2020/237. Real Estate/HTML/scss/_bradcam.scss */
 .bradcam_area {
   background-size: cover;
