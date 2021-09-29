@@ -1918,6 +1918,7 @@ h3 {
 .appertment_area .single_appertment {
   position: relative;
   z-index: 2;
+  margin-bottom: 30px;
 }
 
 /* line 11, ../../Arafath/CL/january 2020/237. Real Estate/HTML/scss/_appetment.scss */
@@ -1929,6 +1930,7 @@ h3 {
   height: 100%;
   content: '';
   z-index: 1;
+  margin-bottom: 30px;
 }
 
 /* line 21, ../../Arafath/CL/january 2020/237. Real Estate/HTML/scss/_appetment.scss */
