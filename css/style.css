@@ -1566,7 +1566,7 @@ h3 {
 
 /* line 112, ../../Arafath/CL/january 2020/237. Real Estate/HTML/scss/_about.scss */
 .about_area .about_info .info_inner .customer_info .single_info {
-  border: 3px solid #b1b1b1;
+  border: 3px solid black;
   padding: 11px 30px 8px 30px;
   margin-right: 35px;
 }
@@ -1583,7 +1583,7 @@ h3 {
   font-size: 30px;
   font-family: "Oswald", sans-serif;
   font-weight: 600;
-  color: #ff2424;
+  color: red;
   margin-right: 20px;
   line-height: 1;
 }
@@ -1814,7 +1814,8 @@ h3 {
   background: #fff;
   border: 1px solid #ebebeb;
   padding: 32px 20px 65px 20px;
-  height: 600px;
+  min-height: 600px;
+  /* height: 600px; */
   margin-bottom: 20px;
 }
 
