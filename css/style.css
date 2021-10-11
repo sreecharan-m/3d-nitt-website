@@ -1922,6 +1922,7 @@ h3 {
   position: relative;
   z-index: 2;
   margin-bottom: 30px;
+  border-radius: 25px;
 }
 
 /* line 11, ../../Arafath/CL/january 2020/237. Real Estate/HTML/scss/_appetment.scss */
@@ -1934,11 +1935,13 @@ h3 {
   content: '';
   z-index: 1;
   margin-bottom: 30px;
+  border-radius: 25px;
 }
 
 /* line 21, ../../Arafath/CL/january 2020/237. Real Estate/HTML/scss/_appetment.scss */
 .appertment_area .single_appertment .thumb {
   overflow: hidden;
+  border-radius: 25px;
 }
 
 /* line 23, ../../Arafath/CL/january 2020/237. Real Estate/HTML/scss/_appetment.scss */
