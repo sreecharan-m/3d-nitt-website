@@ -1942,6 +1942,22 @@ h3 {
 .appertment_area .single_appertment .thumb {
   overflow: hidden;
   border-radius: 25px;
+  
+}
+
+@media (max-width: 767px) {
+  /* line 1, ../../Arafath/CL/january 2020/237. Real Estate/HTML/scss/_appetment.scss */
+  .appertment_area .single_appertment .thumb img {
+    width: 100%;
+  -webkit-transform: scale(1);
+  -moz-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
+  -webkit-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -o-transition: 0.3s;
+  transition: 0.3s;
+  }
 }
 
 /* line 23, ../../Arafath/CL/january 2020/237. Real Estate/HTML/scss/_appetment.scss */
