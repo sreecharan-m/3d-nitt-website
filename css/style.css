@@ -1416,8 +1416,8 @@ h3 {
 
 /* line 1, ../../Arafath/CL/january 2020/237. Real Estate/HTML/scss/_about.scss */
 .about_area {
-  padding-top: 180px;
-  padding-bottom: 180px;
+  padding-top: 80px;
+  padding-bottom: 80px;
 }
 
 @media (max-width: 767px) {
@@ -1506,14 +1506,14 @@ h3 {
 @media (max-width: 767px) {
   /* line 67, ../../Arafath/CL/january 2020/237. Real Estate/HTML/scss/_about.scss */
   .about_area .about_info {
-    margin-top: 50px;
+    /* margin-top: 50px; */
   }
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
   /* line 67, ../../Arafath/CL/january 2020/237. Real Estate/HTML/scss/_about.scss */
   .about_area .about_info {
-    margin-top: 50px;
+    /* margin-top: 50px; */
   }
 }
 
